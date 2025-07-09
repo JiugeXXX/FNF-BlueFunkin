@@ -1,43 +1,15 @@
-# Friday Night Funkin' - NovaFlare Engine
+## Friday Night Funkin' - Blue Funkin
+FNF Blue Funkin是根据原[FNF](https://github.com/FunkinCrew/Funkin)的社区引擎[FNF - 新星闪耀 V0.7.3](https://github.com/NovaFlare-Engine-Concentration/FNF-NovaFlare-Engine/tree/V1.1.7)制作相关内容
 
-## Customization:
+- 当前正在测试一些狗屎代码
 
-if you wish to disable things like *Lua Scripts* or *Video Cutscenes*, you can read over to `Project.xml`
-
-inside `Project.xml`, you will find several variables to customize Psych Engine to your liking
-
-to start you off, disabling Videos should be simple, simply Delete the line `"VIDEOS_ALLOWED"` or comment it out by wrapping the line in XML-like comments, like this `<!-- YOUR_LINE_HERE -->`
-
-same goes for *Lua Scripts*, comment out or delete the line with `LUA_ALLOWED`, this and other customization options are all available within the `Project.xml` file
-
-## NovaFlare Credits:
-* Beihu - Programmer
-* TieGuo - Programmer
-
-## Mobile Credits:
-* Lily - Head Porter
-* Karim - Assistant Porter/Helper #1
-* Hoovy - Helper #2
-
-### Mobile Special Thanks
-* Mihai Alexandru - Author of mobile controls and also his new storage stuff and FlxRuntimeShader is used here
-* FutureDorito - iOS Helper/Implementer
-
-## Psych Credits:
-* Shadow Mario - Programmer
-* Riveren - Artist
-
-### Psych Special Thanks
-* bbpanzu - Ex-Programmer
-* Yoshubs - Ex-Programmer
-* SqirraRNG - Crash Handler and Base code for Chart Editor's Waveform
-* KadeDev - Fixed some cool stuff on Chart Editor and other PRs
-* iFlicky - Composer of Psync and Tea Time, also made the Dialogue Sounds
-* PolybiusProxy - .MP4 Video Loader Library (hxCodec)
-* Keoiki - Note Splash Animations
-* Smokey - Sprite Atlas Support
-* Nebula the Zorua - some Lua reworks
-* superpowers04 - LUA JIT Fork
-_____________________________________
-
-To be updated
+## 制作团队
+- [悠闲的柠檬星冰乐](https://space.bilibili.com/229122130) - **主创**、美术、设计、测试
+- [FOKOMOS](https://space.bilibili.com/456301606) - 主要美术
+- [AZjessica](https://space.bilibili.com/1565599632) - 美术
+- [九鸽咕咕咕](https://space.bilibili.com/1273402839) - 程序员
+- [尘灰灰](https://space.bilibili.com/3493288327777064) - 副程序员
+- [LC林猹](https://space.bilibili.com/285046706) - 副程序员
+- [WuWang122](https://space.bilibili.com/1540269462) - 音乐
+- [Mengxue](https://space.bilibili.com/692396773) - 谱面制作
+- [Yixi_hik](https://space.bilibili.com/605021205) - 谱面制作/设计
