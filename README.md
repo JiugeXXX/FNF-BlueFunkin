@@ -1,5 +1,5 @@
 ## Friday Night Funkin' - Blue Funkin
-FNF Blue Funkin是根据原[FNF](https://github.com/FunkinCrew/Funkin)的社区引擎[FNF - 新星闪耀 V0.7.3](https://github.com/NovaFlare-Engine-Concentration/FNF-NovaFlare-Engine/tree/V1.1.7)制作相关内容
+FNF Blue Funkin是根据原[FNF](https://github.com/FunkinCrew/Funkin)的社区引擎[FNF - 新星闪耀 V1.1.7](https://github.com/NovaFlare-Engine-Concentration/FNF-NovaFlare-Engine/tree/V1.1.7)制作相关内容
 
 - 当前正在测试一些狗屎代码
 
